@@ -2,7 +2,7 @@
 
 If this is the first time that you are hearing the above phrase, please vist the Wikipedia page titled 'Conway's Game of Life' for more information.
 
-This Python Script is a command line took to experience _Conway's Game of Life_!
+This Python Script is a command line tool to experience _Conway's Game of Life_!
 
 To start:
 
